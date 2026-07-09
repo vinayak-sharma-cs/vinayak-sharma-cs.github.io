@@ -497,6 +497,11 @@ section > h2 {
 .areas-text {
   font-size: 0.93rem;
   color: var(--color-text-secondary);
+  margin-bottom: 0.75rem;
+}
+
+.areas-text:last-child {
+  margin-bottom: 0;
 }
 
 /* Responsive */
